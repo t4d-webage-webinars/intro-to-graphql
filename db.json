@@ -178,7 +178,7 @@
       "id": 5,
       "title": "Good Fellows",
       "authorId": 2,
-      "category": "Inspirational",
+      "category": "Comedy",
       "price": 4.99
     },
     {
@@ -218,7 +218,7 @@
     },
     {
       "title": "Lord of the Rings",
-      "category": "Inspirational",
+      "category": "Fantasy",
       "price": 19,
       "authorId": 2,
       "id": 16
@@ -229,6 +229,20 @@
       "price": 7.99,
       "authorId": 1,
       "id": 17
+    },
+    {
+      "title": "New Book Webinar",
+      "category": "Tech",
+      "price": 10.99,
+      "authorId": 1,
+      "id": 18
+    },
+    {
+      "title": "New Book Webinar 2",
+      "category": "Tech",
+      "price": 11.99,
+      "authorId": 1,
+      "id": 19
     }
   ]
 }
